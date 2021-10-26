@@ -1,4 +1,6 @@
 # Bioprediction project
-That's place where i am learning, how to program.
-This is notebook about learning by doing.
-You can use my projects in your ones, i only would be grateful.
+This is project about predicting bioactivity of drugs, that bind to Beta Amyloid A4.
+Particularly I will build a machine learning model using the ChEMBL bioactivity data.
+The Project consist of different parts.
+
+In Part 1 I performe Data Collection and Pre-Processing from the ChEMBL Database.
