@@ -4,3 +4,11 @@ Particularly I will build a machine learning model using the ChEMBL bioactivity 
 The Project consist of different parts.
 
 In Part 1 I performe Data Collection and Pre-Processing from the ChEMBL Database.
+
+In Part 2, I performe Descriptor Calculation and Exploratory Data Analysis.
+
+In Part 3, I calculate molecular descriptors, that are description of the substances in the dataset. Finally, I will convert this into a dataset for subsequent model, that will be built in Part 4.
+
+In Part 4, I make a regression model of beta-amyloid inhibitors using the random forest algorithm.
+
+In Part 5, I compare several ML algorithms for building regression model and evaluate my results.
